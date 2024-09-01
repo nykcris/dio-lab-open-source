@@ -34,11 +34,7 @@ Atualmente estudante de Análise e Desenvolvimento de Sistemas, formada no ensin
 
 </div>
 
-<div  align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01VitorHugo&layout=compact&langs_count=7&theme=react)
-
-</div>
  
 <h2>Sistema operacional</h2>
 <br>
