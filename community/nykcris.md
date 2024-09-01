@@ -6,7 +6,7 @@
 
 
  <h2>Sobre mim</h2> 
-Atualmente estudante de Análise e Desenvolvimento de Sistemas, formada no ensino médio com habilitação técnica em informática para internet, como tcc entreguei um projeto como alternativa para o conect SUS.
+Atualmente estudante de Análise e Desenvolvimento de Sistemas na UNOESTE, formada no ensino médio com habilitação técnica em informática para internet pela ETEC Prof. Adolpho Arruda Mello, como tcc entreguei um projeto como alternativa para o conect SUS.
 
 <h2>Redes Sociais</h2>
 
